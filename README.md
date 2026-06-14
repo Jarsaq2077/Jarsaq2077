@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola 👋 Mi nombre es Mathias Arancibia
 
+Soy estudiante de Ingeniería de Software en la Universidad Tecnológica del Perú, con interés en el desarrollo de aplicaciones y páginas web. Poseo conocimientos en Java, Python, MySQL y PHP, y me motiva aprender constantemente nuevas tecnologías y metodologías de trabajo. 
 <!--
 **Jarsaq2077/Jarsaq2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
